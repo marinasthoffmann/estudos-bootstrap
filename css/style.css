@@ -1,0 +1,33 @@
+.body{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.navbar{
+    background-color: #76D7C4;
+}
+
+
+.quem-somos{
+    background-color: #F0F3F4;
+    color: rgba(0, 0, 0, 0.603)
+}
+
+.margin{
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.doguinhos{
+    background-color: #EAF2F8;
+    color: rgba(0, 0, 0, 0.603);
+}
+
+.servicos{
+    background-color: #F0F3F4;
+    color: rgba(0, 0, 0, 0.603);
+}
+
+.bg-footer{
+    background-color:#76D7C4;
+    color: rgba(0, 0, 0, 0.603);
+}
